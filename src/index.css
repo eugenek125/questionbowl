@@ -1,0 +1,32 @@
+.game-header {
+  display: flex;
+  flex-direction: row;
+  margin: 0 10px;
+  justify-content: space-between;
+}
+
+.prompt,
+.prompt form {
+  text-align: center;
+}
+
+.prompt {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.well {
+  background: LightBlue !important;
+}
+
+.input-form {
+  margin-bottom: 10px;
+}
+
+.next-q{
+  width: 50%;
+  margin-bottom: 20px;
+  margin: 0 auto;
+  text-align: center;
+  word-wrap: break-word;
+}
